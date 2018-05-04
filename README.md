@@ -6,7 +6,7 @@ http://github.com/stevenctl
 
 Enthusiastic software developer with a passion for learning new ways to build and leverage technology. A large believer in dev-ops and ownership from coding, testing, deployment all the way to support. Lover of agile and test driven development. 
 
-I enjoy experimenting with new approaches and technology, recently machine-learning and data science has been the focus of my free-time studying. 
+I enjoy experimenting with new approaches and technology, recently machine-learning and data science have been the focus of my free-time studying. 
 
 
 ## Technical Skills
@@ -17,8 +17,8 @@ I enjoy experimenting with new approaches and technology, recently machine-learn
 - Containerization with Docker and Kubernetes
 - CI/CD pipelines using Git, Jenkins, Circle, and TeamCity
 - Strong Javascript Skills
-- Vue.js, Angular and React.js
-- C# .NET
+- Vue.js, Angular, and React.js
+- C#.NET
 - SQL and NoSQL; MSSQL, MySQL, MongoDB, Couchbase, PostgreSQL
 - Orchestration tools such as Kubernetes with Helm as well as Ansible
 
@@ -35,19 +35,12 @@ I enjoy experimenting with new approaches and technology, recently machine-learn
 
 ### CBS Sports/insidestl.com, October 2016 - February 2016
 
-- Built and deployed wordpress website
-- Built custom webcrawler/migration tool for migration from DotNet Nuke 5 to WordPress 
-- Integrated streaming, podcasting and social services into the website
-- Developed iOS and Android mobile applications for streaminga and podcasting
+- Built and deployed WordPress website
+- Built custom web crawler/migration tool for migration from DotNet Nuke 5 to WordPress 
+- Integrated streaming, podcasting, and social services into the website
+- Developed iOS and Android mobile applications for streaming and podcasting
 
 ### Portfolio Management Co. 
 
 - Developed Android mobile app for estimating returns and risk on covered call investments
-- Built React.js webapp/React Native iOS/Android applications that consumed Google's finance API
-
-
-
-
-
-
-
+- Built React.js web app/React Native iOS/Android applications that consumed Google's finance API
