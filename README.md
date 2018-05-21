@@ -4,23 +4,21 @@ steven@stlcomputerservices.com
 
 http://github.com/stevenctl
 
-Enthusiastic software developer with a passion for learning new ways to build and leverage technology. A large believer in dev-ops and ownership from coding, testing, deployment all the way to support. Lover of agile and test driven development. 
-
-I enjoy experimenting with new approaches and technology, recently machine-learning and data science have been the focus of my free-time studying. 
-
+Enthusiastic software developer with a passion for learning new ways to build and leverage technology. A large believer in dev-ops and ownership from coding, testing, deployment all the way to support. Accustomed to an Agile and Test-Driven development environment. 
 
 ## Technical Skills
 
 - JVM Languages: Java, Groovy, Kotlin, Spring, Hibernate
 - Elixir with Phoenix
-- Python with Flask, Asyncio, as well as Scipy
+- Python with Flask, Asyncio, as well as familiarity with the SciPy ecosystem
 - Containerization with Docker and Kubernetes
 - CI/CD pipelines using Git, Jenkins, Circle, and TeamCity
 - Strong Javascript Skills
-- Vue.js, Angular, and React.js
+- Vue.js and React.js
 - C#.NET
 - SQL and NoSQL; MSSQL, MySQL, MongoDB, Couchbase, PostgreSQL
 - Orchestration tools such as Kubernetes with Helm as well as Ansible
+- PyTorch and TensorFlow
 
 ## Professional Experience
 
@@ -33,7 +31,7 @@ I enjoy experimenting with new approaches and technology, recently machine-learn
 - Used Agile and TDD principles to deliver stable projects on time
 - Worked in a polyglot environment learning many different technologies and languages
 
-### CBS Sports/insidestl.com, October 2016 - February 2016
+### CBS Sports/insidestl.com, October 2015 - February 2016
 
 - Built and deployed WordPress website
 - Built custom web crawler/migration tool for migration from DotNet Nuke 5 to WordPress 
