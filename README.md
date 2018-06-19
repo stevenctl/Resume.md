@@ -4,7 +4,7 @@ steven@stlcomputerservices.com
 
 http://github.com/stevenctl
 
-Enthusiastic software developer with a passion for learning new ways to build and leverage technology. A large believer in dev-ops and ownership from coding, testing, deployment all the way to support. Accustomed to an Agile and Test-Driven development environment. I have an extremw interest in machine learning and have been studying via meetups, Fast.ai, and the Stanford CS231N course online. 
+Enthusiastic software developer with a passion for learning new ways to build and leverage technology. A large believer in dev-ops and ownership from coding, testing, deployment all the way to support. Accustomed to an Agile and Test-Driven development environment. I have an extreme interest in machine learning and have been studying via meetups, Fast.ai, and the Stanford CS231N course online. 
 
 ## Technical Skills
 
