@@ -22,7 +22,7 @@ Enthusiastic software developer with a passion for learning new ways to build an
 
 ## Professional Experience
 
-### CenturyLink Cloud, April 2016 - Present
+### Lead Developer at CenturyLink Cloud, April 2016 - Present
 
 - Designed and developed scalable applications, microservices, and RESTful APIs
 - Used Cloud Native and CI/CD practices to deploy applications to Kubernetes
@@ -31,14 +31,14 @@ Enthusiastic software developer with a passion for learning new ways to build an
 - Used Agile and TDD principles to deliver stable projects on time
 - Worked in a polyglot environment learning many different technologies and languages
 
-### CBS Sports/insidestl.com, October 2015 - February 2016
+### Mobile and Web Developer at CBS Sports/insidestl.com, October 2015 - February 2016
 
 - Built and deployed WordPress website
 - Built custom web crawler/migration tool for migration from DotNet Nuke 5 to WordPress 
 - Integrated streaming, podcasting, and social services into the website
 - Developed iOS and Android mobile applications for streaming and podcasting
 
-### Portfolio Management Co. 
+### Mobile Developer at Portfolio Management Co. 
 
 - Developed Android mobile app for estimating returns and risk on covered call investments
 - Built React.js web app/React Native iOS/Android applications that consumed Google's finance API
